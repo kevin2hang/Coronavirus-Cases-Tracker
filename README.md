@@ -1,4 +1,4 @@
-# Coronavirus-Cases-Tracker
+# Coronavirus Cases Tracker
 Implements list comprehension and matplotlib
 - to create graphs and bar charts about total confirmed Covid-19 cases and new confirmed Covid-19 cases in areas around the USA
 
